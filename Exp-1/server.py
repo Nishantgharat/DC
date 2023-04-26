@@ -49,6 +49,6 @@ clientConnection.close()
 
 
 # Start the server First
-# then start the server
+# then start the client
 # in server
 # Enter the operation: 10 + 2
